@@ -1,7 +1,6 @@
 /**
- *Author  Perlt
- * http://zhenpengday.blog.163.com
- * 
+ * Author  Mocha
+ * Email 809507457@qq.com
  * A sudoku game 
  *
  **/
